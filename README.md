@@ -1,1 +1,5 @@
 # LifeInvader-NativeUI
+
+Dependencies
+es_extended (Tested with ESX Legacy)
+NativeUI Reloaded or NativeUI(needs to be changed in fxmanifest.lua)
